@@ -1,1 +1,1 @@
-This is an exercise for Omilia's interview process
+Natural Numbers Interpreter created as part of the interview process
